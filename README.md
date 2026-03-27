@@ -35,6 +35,13 @@ The system:
 ## 📈 Output Example
 Graph showing vibration behavior over time with condition classification.
 
+
+![Graph](graph-vib.png)
+
+![Normal](vib.png)
+
+![Warning](2.png)
+
 ---
 
 ## 🧠 Concept
